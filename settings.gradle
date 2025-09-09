@@ -1,0 +1,3 @@
+rootProject.name = 'Book-Store'
+
+include(":api", ":common", ":domain", ":notification", ":payment", ":repository", ":service")
